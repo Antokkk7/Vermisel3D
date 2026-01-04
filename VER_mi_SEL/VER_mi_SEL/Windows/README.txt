@@ -1,1 +1,1 @@
-les info aaaaaaa
+Le jeu se lance avec Segment.exe
